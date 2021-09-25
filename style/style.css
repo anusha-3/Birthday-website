@@ -5,8 +5,10 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  background-image: url(https://images.unsplash.com/photo-1564228511783-821f2f547f44?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1091&q=80);
+  background-image: url(https://images7.alphacoders.com/737/thumb-1920-737400.jpg);
+  background-size: 100%;
   background-repeat: no-repeat;
+  color:rgb(255, 255, 255)
 }
 
 .container {
@@ -122,7 +124,7 @@ body {
   display: inline-block;
   max-width: auto;
   height: auto;
-  text-align:center
+  text-align:center;
   height: auto;
 }
 

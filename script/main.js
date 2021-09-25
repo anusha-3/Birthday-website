@@ -1,6 +1,10 @@
 // Animation Timeline
 const animationTimeline = () => {
+  // var audio = $('.song')[0];
+  // audio.play();
   // Spit chars that needs to be animated individually
+  // var audio = new Audio('audio.mp3');
+  // audio.play();
   const textBoxChars = document.getElementsByClassName("hbd-chatbox")[0];
   const hbd = document.getElementsByClassName("wish-hbd")[0];
 
@@ -109,7 +113,7 @@ const animationTimeline = () => {
     .to(".idea-3 strong", 0.5, {
       scale: 1.2,
       x: 10,
-      backgroundColor: "rgb(21, 161, 237)",
+      backgroundColor: "rgb(214, 96, 161)",
       color: "#fff"
     })
     .to(".idea-3", 0.7, ideaTextTransLeave, "+=1.5")
