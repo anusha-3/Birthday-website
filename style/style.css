@@ -126,6 +126,8 @@ body {
   height: auto;
   text-align:center;
   height: auto;
+  border: 10px solid purple;
+  border-radius: 25%;
 }
 
 .six .hat {
@@ -133,6 +135,7 @@ body {
   width: 80px;
   top: -35px;
   left: 41.5%;
+  border: none
   /* transform: scale(0.1); */
 }
 
