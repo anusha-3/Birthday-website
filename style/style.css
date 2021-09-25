@@ -120,7 +120,9 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 100%;
+  max-width: auto;
+  height: auto;
+  text-align:center
   height: auto;
 }
 
